@@ -1,7 +1,11 @@
 import React from "react";
-
+import UserResults from "../components/users/UserResults";
 function Home() {
-  return <div>Welocme</div>;
+  return (
+    <div>
+      <UserResults />
+    </div>
+  );
 }
 
 export default Home;
