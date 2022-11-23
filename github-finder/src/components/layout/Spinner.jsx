@@ -1,5 +1,5 @@
 import React from "react";
-import spinner from "./assets/spinner.gif";
+import spinner from "./assets/Loader.gif";
 function Spinner() {
   return (
     <div className="w-100 mt-100">
